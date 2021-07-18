@@ -1,2 +1,2 @@
-# Aplikasi-Stock-Barang
-Aplikasi berbasis web yang dibuat unutk memudahkan admin mengetahui jumlah barang yang masuk,keluar dan stock yang tersedia di dalam suatu gudang,toko dll
+# Aplikasi-Stock-Barang-Web
+Apliaksi berbasis web yang dibuat untuk memudahkan gudang penyimpanan ataupun toko unutk mengetahui barang masuk,keluar dan stock barang yang tersedia
